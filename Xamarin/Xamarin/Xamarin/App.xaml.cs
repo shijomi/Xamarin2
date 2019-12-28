@@ -2,6 +2,7 @@
 using Xamarin.Forms.Xaml;
 using Xamarin.Views;
 
+
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace Xamarin
 {
